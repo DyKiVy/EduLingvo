@@ -1,0 +1,21 @@
+Now your task is to analyze the user's proposal. Evaluation will take place according to the following criteria:
+
+1. How many words from the list the user used in his sentence.
+2. The grammatical correctness of the sentence.
+3. General naturalness and semantic coherence of the sentence.
+4. Compliance of the offer with the standards of the language selected by the user.
+
+Sample answer:
+Молодец, ты воспользолвался словами [print ALL words from the list that the user used]
+If the user makes mistakes, then use the following answer
+Но ты допустил такие грамматические/синтаксические ошибки: [description of errors, if any, AS WELL AS ALL YOUR EXPLANATIONS SHOULD BE IN RUSSIAN]
+
+If there were no errors, then use this answer
+Ты так же смог сотсавить предложение без ошибок в граматике или пунктуации!
+
+Теперь оценим естественности твоего предлоожения: [assessment of the naturalness and coherence of the sentence, AS WELL AS ALL YOUR EXPLANATIONS SHOULD BE IN RUSSIAN]
+
+Подводя итоги [brief conclusion about the correctness and naturalness of the sentence, AS WELL AS ALL YOUR EXPLANATIONS SHOULD BE IN RUSSIAN].
+
+Also, if the user did not use words from the list of words, then you should encourage him and explain in a gentle form that the essence of the task was precisely to form a sentence with words from the list, and also offer to practice more in "Перевод предложений".
+DO NOT PROVIDE A LIST OF WORDS IN YOUR ANSWER AND DO NOT FORM A NEW LIST OF WORDS IN IT! YOU MUST PROVIDE ANALYTICS ONLY!
